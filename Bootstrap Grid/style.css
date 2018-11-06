@@ -1,0 +1,34 @@
+.jumbotron {
+    margin 20px; 
+    background-color: green;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.my-header {
+    background-color: #ccc;
+    text-align: center;
+}
+
+.myCol-green {
+    background-color: green;
+    height: 200px;
+  }
+  
+  .myCol-yellow {
+    background-color: darkgoldenrod;
+  }
+
+  .myCol-red {
+    background-color: red;
+  }
+
+  .myCol-purple {
+    background-color: purple;
+  }
+
+  .myCol-blue {
+    background-color: blue;
+  }
