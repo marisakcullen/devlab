@@ -1,6 +1,3 @@
-# My Dev Lab
-This is my messy, unorganized code hub for proof of concept projects and experimentation. 
-
 # Demo Links:
 [Hello World Assignment](https://marisakcullen.github.io/devlab/helloworld)
 
