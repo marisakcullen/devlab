@@ -9,5 +9,5 @@
 
 [Bootstrap Grid Assignment](https://marisakcullen.github.io/devlab/bootstrap-grid-assignment)
 
-[JQuery Assignment] (https://marisakcullen.github.io/devlab/js-jquery)
+[JQuery Assignment](https://marisakcullen.github.io/devlab/js-jquery)
 
